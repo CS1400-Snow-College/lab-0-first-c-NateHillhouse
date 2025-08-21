@@ -1,0 +1,15 @@
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-0-first-c-NateHillhouse\bin\Debug\net9.0\lab-0-first-c-NateHillhouse.exe
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-0-first-c-NateHillhouse\bin\Debug\net9.0\lab-0-first-c-NateHillhouse.deps.json
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-0-first-c-NateHillhouse\bin\Debug\net9.0\lab-0-first-c-NateHillhouse.runtimeconfig.json
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-0-first-c-NateHillhouse\bin\Debug\net9.0\lab-0-first-c-NateHillhouse.dll
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-0-first-c-NateHillhouse\bin\Debug\net9.0\lab-0-first-c-NateHillhouse.pdb
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-0-first-c-NateHillhouse\obj\Debug\net9.0\lab-0-first-c-NateHillhouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-0-first-c-NateHillhouse\obj\Debug\net9.0\lab-0-first-c-NateHillhouse.AssemblyInfoInputs.cache
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-0-first-c-NateHillhouse\obj\Debug\net9.0\lab-0-first-c-NateHillhouse.AssemblyInfo.cs
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-0-first-c-NateHillhouse\obj\Debug\net9.0\lab-0-first-c-NateHillhouse.csproj.CoreCompileInputs.cache
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-0-first-c-NateHillhouse\obj\Debug\net9.0\lab-0-first-c-NateHillhouse.sourcelink.json
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-0-first-c-NateHillhouse\obj\Debug\net9.0\lab-0-first-c-NateHillhouse.dll
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-0-first-c-NateHillhouse\obj\Debug\net9.0\refint\lab-0-first-c-NateHillhouse.dll
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-0-first-c-NateHillhouse\obj\Debug\net9.0\lab-0-first-c-NateHillhouse.pdb
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-0-first-c-NateHillhouse\obj\Debug\net9.0\lab-0-first-c-NateHillhouse.genruntimeconfig.cache
+C:\Users\nhill_mliw72r\Documents\Code_Projects\my-code-dir\lab-0-first-c-NateHillhouse\obj\Debug\net9.0\ref\lab-0-first-c-NateHillhouse.dll
